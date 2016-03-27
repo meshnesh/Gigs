@@ -37,16 +37,18 @@
 }
 
 
-.mega-sub-menu {
+.about{
+    margin-top: 10rem;
+}
+.about p{
+    text-align: center;
+}
 
+.about h1{
+    color: gray;
+    text-align: center;
+}
 
-    position: absolute;
-    top: 100%;
-    right: 0;
-    min-width: 44.44em;
-    padding: 10px 0 0 0;
-    margin-left: -1px;
-    visibility: hidden;
-    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
-    opacity: 0;
+.about img{
+    padding: 3%;
 }
