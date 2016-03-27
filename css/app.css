@@ -52,3 +52,23 @@
 .about img{
     padding: 3%;
 }
+
+
+
+
+.portfolio{
+    margin-top: 10rem;
+}
+
+.portfolio p{
+    text-align: center;
+}
+
+.portfolio h1{
+    color: gray;
+    text-align: center;
+}
+
+.portfolio img{
+    padding: 3%;
+}
