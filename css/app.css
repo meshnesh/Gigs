@@ -35,3 +35,18 @@
 .style img{
     padding: 3%;
 }
+
+
+.mega-sub-menu {
+
+
+    position: absolute;
+    top: 100%;
+    right: 0;
+    min-width: 44.44em;
+    padding: 10px 0 0 0;
+    margin-left: -1px;
+    visibility: hidden;
+    filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=0);
+    opacity: 0;
+}
