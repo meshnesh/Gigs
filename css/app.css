@@ -1,4 +1,4 @@
-h1{
+.small-6 h1{
     color: #f1f1f1;
     margin-top: 5rem;
 }
@@ -14,7 +14,24 @@ h1{
 
 }
 
-p{
+.small-6 p{
    margin-top: 2rem;
 
+}
+
+
+.style{
+    margin-top: 10rem;
+}
+.style p{
+    text-align: center;
+}
+
+.style h1{
+    color: gray;
+    text-align: center;
+}
+
+.style img{
+    padding: 3%;
 }
