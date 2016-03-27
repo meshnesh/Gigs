@@ -1,6 +1,20 @@
+h1{
+    color: #f1f1f1;
+    margin-top: 5rem;
+}
 .expanded{
      background-image: url(../img/home.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 95vh;
+}
+
+.row .row {
+        margin-right: 35rem;
+
+}
+
+p{
+   margin-top: 2rem;
+
 }
