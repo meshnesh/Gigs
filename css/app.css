@@ -169,13 +169,9 @@ float:left;
   font-family: 'Lato', calibri, arial;
   font-size:14px;
   font-weight:300;
-  color:#fff;
+  color:red;
       background-color:transparent;
-      border-top: 1px solid transparent;
-      border-left: 1px solid transparent;
-      border-bottom: 1px solid #fff;
-      border-right: 1px solid transparent;
-  
+      border: 1px solid transparent;
   margin-bottom:15px;
 }
 
