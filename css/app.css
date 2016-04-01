@@ -1,3 +1,6 @@
+@import url('http://weloveiconfonts.com/api/?family=entypo');
+
+
 .small-6 h1{
     color: #f1f1f1;
     margin-top: 5rem;
@@ -267,3 +270,70 @@ label {
 
 
 /*end of contact section*/
+
+/*footer section*/
+
+
+footer a{
+	color: inherit;
+	text-decoration: none;
+	border-bottom:3px solid #22A7F0;
+	padding-bottom: 1px;
+	cursor: pointer;
+	
+}
+
+footer a:hover{
+	border-bottom:2px dotted #22A7F0;
+}
+
+footer{
+	clear: both;
+	height: 5px;
+	background-color: #22A7F0;
+	padding: 1%;
+  padding-left:0;
+  padding-right:0;
+  bottom:0;
+  width:100%;
+  margin:0 auto;
+}
+
+.text-footer{
+	margin: 1% auto;
+	width: 183px;
+	color: white;
+}
+
+	footer ul li a{
+		border: none;
+	}
+
+.social-ul{
+	margin: 0 auto;
+	width: 317px;
+	margin-top: -39px;
+}
+
+.social {
+  display: inline-block;
+  width: 40px;
+  height: 40px;
+  margin: 0 10px;
+  line-height: 40px;
+  font-family: Entypo;
+  font-size: 20px;
+  text-align: center;
+  color: #555;
+  border-radius: 50%;
+  background: #fff;
+  overflow: hidden;
+  transition: color .3s;
+}
+
+.social:hover {
+  color: #22A7F0;
+  cursor: pointer;
+
+}
+/*end of footer section*/
