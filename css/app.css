@@ -1,6 +1,9 @@
 @import url('http://weloveiconfonts.com/api/?family=entypo');
 
-
+.home p{
+    color: #fff;
+    font-size: 1.4em;
+}
 .small-6 h1{
     color: #f1f1f1;
     margin-top: 5rem;
@@ -290,7 +293,7 @@ footer a:hover{
 footer{
 	clear: both;
 	height: 5px;
-	background-color: #22A7F0;
+	background-color: #375557;
 	padding: 1%;
   padding-left:0;
   padding-right:0;
@@ -337,3 +340,6 @@ footer{
 
 }
 /*end of footer section*/
+.top-bar a {
+    color: #375557;
+}
