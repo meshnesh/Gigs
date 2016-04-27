@@ -1,3 +1,4 @@
+@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,900);
 @import url('http://weloveiconfonts.com/api/?family=entypo');
 .home p {
     color: #fff;
@@ -78,7 +79,6 @@
 
 /*contact section*/
 
-@import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,900);
 *:focus {
     outline: 0;
 }
