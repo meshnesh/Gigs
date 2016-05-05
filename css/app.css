@@ -1,5 +1,9 @@
 @import url(http://fonts.googleapis.com/css?family=Lato:100,300,400,900);
 @import url('http://weloveiconfonts.com/api/?family=entypo');
+
+body{
+    background-color: cornsilk;
+}
 .home p {
     color: #fff;
     font-size: 1.4em;
@@ -25,54 +29,25 @@
     margin-top: 2rem;
 }
 
-.style {
-    margin-top: 10rem;
-}
-
 .style p {
     text-align: center;
 }
 
-.style h1 {
-    color: gray;
-    text-align: center;
-}
 
-.style img {
-    padding: 3%;
-}
-
-.about {
+.about, .portfolio, .style {
     margin-top: 10rem;
 }
 
-.about p {
+.about, .portfolio p {
     text-align: center;
 }
 
-.about h1 {
+.about,.portfolio, .style h1 {
     color: gray;
     text-align: center;
 }
 
-.about img {
-    padding: 3%;
-}
-
-.portfolio {
-    margin-top: 10rem;
-}
-
-.portfolio p {
-    text-align: center;
-}
-
-.portfolio h1 {
-    color: gray;
-    text-align: center;
-}
-
-.portfolio img {
+.about,.portfolio, .style  img {
     padding: 3%;
 }
 
