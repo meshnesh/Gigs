@@ -227,8 +227,7 @@ body {
 }
 
 #contact-area {
-    margin-left: 3px;
-    width: 342px;
+    float: right;
     padding: 20px;
 }
 
